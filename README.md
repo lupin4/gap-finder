@@ -36,3 +36,7 @@ python sync_skill.py
 ```
 
 The tests fail if `SKILL.md` no longer embeds the current `gapfinder.py`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
